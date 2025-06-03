@@ -61,14 +61,17 @@ This Unity Editor tool allows you to create, manage, and edit **hierarchical ver
 ---
 
 ## 📂 Folder Structure
+
+```
 VertexGroupTool/
 ├── Editor/
-│ ├── VertexGroupSceneEditor.cs
-│ └── BillboardVertexRenderer.cs
+│   ├── VertexGroupSceneEditor.cs
+│   └── BillboardVertexRenderer.cs
 ├── Shaders/
-│ └── BillboardVertex.shader
+│   └── BillboardVertex.shader
 ├── Scripts/
-│ └── HierarchycalVertexGroup.cs
+│   └── HierarchycalVertexGroup.cs
+```
 
 ---
 
